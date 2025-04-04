@@ -1,0 +1,13 @@
+apache-airflow==2.10.5
+hdfs==2.7.3
+matplotlib==3.10.1
+numpy==2.2.4
+pandas==2.2.3
+pyspark==3.5.4
+pyspark_stubs==3.0.0.post3
+python-dotenv==1.1.0
+schedule==1.2.2
+seaborn==0.13.2
+tavily_python==0.5.3
+torch==2.6.0
+volcengine_python_sdk==1.1.1
